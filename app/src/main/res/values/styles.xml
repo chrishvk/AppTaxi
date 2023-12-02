@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="ToolbarTheme" parent="ThemeOverlay.AppCompat.ActionBar">
+        <item name="colorControlNormal">@color/colorWhite</item>
+        <item name="titleTextColor">@color/colorWhite</item>
+    </style>
+</resources>
